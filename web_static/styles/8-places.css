@@ -9,6 +9,7 @@
 }
 .Places .user {
   justify-content: left;
+  margin-bottom: 0%;
 }
 .Places article {
   width: 390px;
@@ -74,4 +75,5 @@
 .description p {
   text-align: left;
   margin-bottom: auto;
+  margin-top: auto;
 }
